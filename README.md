@@ -58,7 +58,10 @@ python coffee_app.py
 * Bar chart (Matplotlib)
 * Pie chart (Plotly)
 * <img width="638" height="547" alt="image" src="https://github.com/user-attachments/assets/2237ac0d-97c8-49e3-aac1-e485c1834176" />
+<img width="493" height="552" alt="image" src="https://github.com/user-attachments/assets/0397bf33-65fb-4d7d-a38b-bf37e50e5086" />
+
 <img width="226" height="211" alt="image" src="https://github.com/user-attachments/assets/30664d61-a522-49b8-b1cc-9a428638f21d" />
+
 
 
 
