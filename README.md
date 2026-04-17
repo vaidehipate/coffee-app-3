@@ -57,6 +57,10 @@ python coffee_app.py
 * Sales insights
 * Bar chart (Matplotlib)
 * Pie chart (Plotly)
+* <img width="638" height="547" alt="image" src="https://github.com/user-attachments/assets/2237ac0d-97c8-49e3-aac1-e485c1834176" />
+<img width="226" height="211" alt="image" src="https://github.com/user-attachments/assets/30664d61-a522-49b8-b1cc-9a428638f21d" />
+
+
 
 ---
 
@@ -66,8 +70,4 @@ python coffee_app.py
 * Build ML model for prediction
 * Convert into Streamlit dashboard
 
----
 
-## 👩‍💻 Author
-
-Vaidehi Pate
